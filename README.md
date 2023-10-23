@@ -1,4 +1,4 @@
-# Car-showroom using NodeJS,ExpressJS,MongoDB,ReactJS
+# Car-showroom using (MERN)
 ![image](https://github.com/blertton/MERN-Car-showroom/assets/86237949/a9880f1d-dd1f-4830-91f5-23482500f53d)
 
 ![image](https://github.com/blertton/MERN-Car-showroom/assets/86237949/293eac60-607d-4455-b226-9def5f29bf0f)
